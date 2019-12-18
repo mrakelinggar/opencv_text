@@ -1,0 +1,2 @@
+# opencv_text
+ Reading texts in images using OpenCV and others
